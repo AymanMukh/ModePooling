@@ -188,7 +188,7 @@ def main():
 
     trainDataset = ModelNetDataLoader(train_data, train_label, rotation=ROTATION)
     if ROTATION is not None:
-        print('training with rotation is')
+        print('training with rotation')
     testDataset = ModelNetDataLoader(test_data, test_label, rotation=ROTATION)
     if args.outlier_fraction > 0.0: testDataseto = ModelNetDataLoader(test_datao, test_label, rotation=ROTATION)
     if args.noise_level > 0.0: testDatasetn = ModelNetDataLoader(test_datan, test_label, rotation=ROTATION)
