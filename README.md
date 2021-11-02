@@ -19,7 +19,10 @@ If you find our work useful in your research, please consider citing:
 - Install PyTorch ([pytorch.org](http://pytorch.org))
 - `pip install -r requirements.txt`
 
-## Training
+## Segmentation
+coming soon...
+
+## Training (classification)
 
 To train a model, run `main.py`:
 
@@ -30,9 +33,6 @@ python3 main.py --outlier_fraction [OUTLIER_FRACTION] --noise_level [NOISE_LEVEL
 The ROBUST_TYPE can be RANSAC or Histogram {'RN', 'HS'} or none for max-pooling. Other pooling types introduced in DDN {'Q', 'PH', 'H', 'W', 'TQ'} can be used but the DDN library path needs to be added first. 
 
 Default OUTLIER_FRACTION, NOISE_LEVEL, and MISS_FRACTION values are zero. Outliers are normally distributed in the unit cude. 
-
-## Segmentation
-coming soon
 
 
 
