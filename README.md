@@ -31,6 +31,10 @@ The ROBUST_TYPE can be RANSAC or Histogram {'RN', 'HS'} or none for max-pooling.
 
 Default OUTLIER_FRACTION, NOISE_LEVEL, and MISS_FRACTION values are zero. Outliers are normally distributed in the unit cude. 
 
+## Segmentation
+coming soon
+
+
 
 This code is mostly based on [Deep Declarative Netwroks](https://github.com/anucvml/ddn/tree/master/apps/classification/pointcloud) repository.
 ## Links
