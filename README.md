@@ -22,7 +22,7 @@ If you find our work useful in your research, please consider citing:
 ## Segmentation
 coming soon...
 
-## Training (classification)
+## classification
 
 To train a model, run `main.py`:
 
