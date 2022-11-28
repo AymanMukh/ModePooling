@@ -1,6 +1,6 @@
 # Robust Pooling through the Data Mode
 
-This repository contains a PyTorch implementation of historgram and RANSAC Pooling layers for robust point cloud classification. Both layers were tested with PointNet and DGCNN. More details can be found in [this paper](https://arxiv.org/abs/2106.10850v1). The code is mostly based on deep declarative netwroks. For requirements, please refere to their repository. 
+This repository contains a PyTorch implementation of historgram and RANSAC Pooling layers for robust point cloud classification. Both layers were tested with PointNet and DGCNN. More details can be found in [this paper](https://arxiv.org/abs/2106.10850v1). This code is mostly based on [Deep Declarative Netwroks](https://github.com/anucvml/ddn/tree/master/apps/classification/pointcloud). For requirements, please refere to their repository. 
 
 ## References
 If you find our work useful in your research, please consider citing:
@@ -36,7 +36,7 @@ Default OUTLIER_FRACTION, NOISE_LEVEL, and MISS_FRACTION values are zero. Outlie
 
 
 
-This code is mostly based on [Deep Declarative Netwroks](https://github.com/anucvml/ddn/tree/master/apps/classification/pointcloud) repository.
+
 ## Links
 - [Declarative Netwroks](https://github.com/anucvml/ddn/tree/master/apps/classification/pointcloud)
 - [Pointnet PyTorch repository](https://github.com/yanx27/Pointnet_Pointnet2_pytorch/tree/31deedb10b85ec30178df57a6389b2f326f7c970)
