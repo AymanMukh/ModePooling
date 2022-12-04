@@ -3,7 +3,11 @@
 This repository contains a PyTorch implementation of historgram and RANSAC Pooling layers for robust point cloud classification. Both layers were tested with PointNet and DGCNN. More details can be found in [this paper](https://arxiv.org/abs/2106.10850v1). This code is mostly based on [Deep Declarative Netwroks](https://github.com/anucvml/ddn/tree/master/apps/classification/pointcloud). For requirements, please refere to their repository. 
 
 
-![main pic](cover.PNG) [main pic2](cover2.PNG)
+<p float="left">
+  <img src="/cover.PNG" width="100" />
+  <img src="/cover2.PNG" width="100" /> 
+  
+</p>
 
 ## References
 If you find our work useful in your research, please consider citing:
