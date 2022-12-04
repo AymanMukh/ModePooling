@@ -4,8 +4,8 @@ This repository contains a PyTorch implementation of historgram and RANSAC Pooli
 
 
 <p float="left">
-  <img src="/cover.PNG" width="100" />
-  <img src="/cover2.PNG" width="100" /> 
+  <img src="/cover.PNG" width="300" />
+  <img src="/cover2.PNG" width="700" /> 
   
 </p>
 
