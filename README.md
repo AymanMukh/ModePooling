@@ -12,12 +12,14 @@ This repository contains a PyTorch implementation of historgram and RANSAC Pooli
 ## References
 If you find our work useful in your research, please consider citing:
 ```
-@article{mukhaimar2021robust,
-  title={Robust Pooling through the Data Mode},
-  author={Mukhaimar, Ayman and Tennakoon, Ruwan and Lai, Chow Yin and Hoseinnezhad, Reza and others},
-  journal={arXiv preprint arXiv:2106.10850},
-  year={2021}
-}
+@article{mukhaimar2023robust,
+  title={Robust pooling through the data mode},
+  author={Mukhaimar, Ayman and Tennakoon, Ruwan and Hoseinnezhad, Reza and Lai, Chow Yin and Bab-Hadiashar, Alireza},
+  journal={Intelligent Systems with Applications},
+  volume={17},
+  pages={200162},
+  year={2023},
+  publisher={Elsevier}
 ```
 
 
